@@ -18,7 +18,7 @@ Ensure you have **Python 3.7+** installed along with the required dependencies.
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/sentiment-analysis-urdu.git
+   git clone https://github.com/IAlphaK/Urdu-Sentiment-Analysis-NLP
    ```
 2. Import your dataset and stopwords list.
 3. Run the main script:
